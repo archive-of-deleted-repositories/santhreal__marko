@@ -659,18 +659,18 @@ files = [
 
 [[package]]
 name = "mistletoe"
-version = "1.5.1"
+version = "1.6.0"
 requires_python = "~=3.5"
 summary = "A fast, extensible Markdown parser in pure Python."
 groups = ["benchmark"]
 files = [
-    {file = "mistletoe-1.5.1-py3-none-any.whl", hash = "sha256:d3e97664798261503f685f6a6281b092628367cf3128fc68a015a993b0c4feb3"},
-    {file = "mistletoe-1.5.1.tar.gz", hash = "sha256:c5571ce6ca9cfdc7ce9151c3ae79acb418e067812000907616427197648030a3"},
+    {file = "mistletoe-1.6.0-py3-none-any.whl", hash = "sha256:53f9dfb859e9b2d309915d0f06c3876253d1e24d568d0b728a32679eb4f0a187"},
+    {file = "mistletoe-1.6.0.tar.gz", hash = "sha256:92f066c4720a25fa24bf260e6413702bbff3a5b8a93af314cb6cd8589726a8e1"},
 ]
 
 [[package]]
 name = "mistune"
-version = "3.3.0"
+version = "3.3.3"
 requires_python = ">=3.8"
 summary = "A sane and fast Markdown parser with useful plugins and renderers"
 groups = ["benchmark"]
@@ -678,8 +678,8 @@ dependencies = [
     "typing-extensions; python_version < \"3.11\"",
 ]
 files = [
-    {file = "mistune-3.3.0-py3-none-any.whl", hash = "sha256:a758e578acda49d8195f9a860b132dae2cf7bf409381393b1c4e6e489a65397b"},
-    {file = "mistune-3.3.0.tar.gz", hash = "sha256:3074ec4c61b384abe725128e4dcbb483f5a09cc4632012505cdee655d3a113b9"},
+    {file = "mistune-3.3.3-py3-none-any.whl", hash = "sha256:99de1585e42dcbd826faa9e11a202727a5e202e4e4722a4c69ac1ff615793dd7"},
+    {file = "mistune-3.3.3.tar.gz", hash = "sha256:c4c6c0c840b8637a2e9b8b6d607eb7c8f00888bf14c754409bcd339e848c2477"},
 ]
 
 [[package]]
